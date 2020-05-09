@@ -15,7 +15,7 @@ function TaskItem() {
                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
                 
-                    <button type="button" class="btn btn-success">Done!</button>
+                    <button type="button" class="btn btn-success">Done! </button>
                     <button type="button" class="btn btn-danger">Delete</button>
             </div>
         </div>     
